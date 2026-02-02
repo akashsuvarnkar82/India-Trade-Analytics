@@ -1,6 +1,6 @@
-# 🇮🇳 India Trade Analysis Dashboard (2010–2021)
+# India Trade Analysis Dashboard (2010–2021)
 
-## 📌 Project Overview
+## Project Overview
 India is one of the fastest developing nations in the world, and international trade is a key contributor to its economic growth.  
 This project analyzes India's **Export and Import trade data** from **2010 to 2021** using HS2 commodity classification.
 
@@ -8,7 +8,7 @@ An interactive dashboard was built to visualize trade trends, top commodities, m
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 The objective of this project is to answer important trade-related business questions:
 
 - What commodities does India export the most?
@@ -19,7 +19,7 @@ The objective of this project is to answer important trade-related business ques
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 - **Source:** Kaggle – India Trade Data  
 - **Time Period:** 2010–2021  
 - **Unit:** Trade value in Million US Dollars  
@@ -27,7 +27,7 @@ The objective of this project is to answer important trade-related business ques
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 - **Python (Pandas)** – Data cleaning and preprocessing  
 - **PostgreSQL** – Database storage and SQL analysis  
 - **Power BI** – Interactive dashboard development  
@@ -35,7 +35,7 @@ The objective of this project is to answer important trade-related business ques
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 1. Business Problem Definition  
 2. Data Loading & Cleaning in Python  
 3. Exporting cleaned dataset  
@@ -47,16 +47,16 @@ The objective of this project is to answer important trade-related business ques
 
 ---
 
-## 📈 Dashboard Preview
+## Dashboard Preview
 
-### ✅ India Trade Analysis Dashboard
+### India Trade Analysis Dashboard
 
 
 ![India Trade Dashboard](dashboard.JPG)
 
 ---
 
-## 📌 Key Dashboard Features
+## Key Dashboard Features
 - Export vs Import Trend (2010–2021)
 - Top 10 Commodities by Trade Value
 - Top Trade Partner Countries
@@ -65,7 +65,7 @@ The objective of this project is to answer important trade-related business ques
 
 ---
 
-## ✅ Key Insights
+## Key Insights
 - India’s imports were higher than exports, resulting in a trade deficit.
 - Major trade partners include **China, USA, UAE, and Saudi Arabia**.
 - Commodities like **Mineral Fuels and Machinery** dominate India’s trade basket.
