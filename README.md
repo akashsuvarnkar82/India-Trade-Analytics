@@ -30,8 +30,7 @@ The objective of this project is to answer important trade-related business ques
 ## Tools & Technologies Used
 - **Python (Pandas)** – Data cleaning and preprocessing  
 - **PostgreSQL** – Database storage and SQL analysis  
-- **Power BI** – Interactive dashboard development  
-- **GitHub** – Project version control and portfolio sharing  
+- **Power BI** – Interactive dashboard development   
 
 ---
 
@@ -43,7 +42,6 @@ The objective of this project is to answer important trade-related business ques
 5. Writing SQL queries for analysis  
 6. Developing Power BI Dashboard  
 7. Report and Presentation preparation  
-8. Uploading project on GitHub  
 
 ---
 
