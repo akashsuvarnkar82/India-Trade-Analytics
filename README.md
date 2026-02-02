@@ -51,7 +51,6 @@ The objective of this project is to answer important trade-related business ques
 
 ### ✅ India Trade Analysis Dashboard
 
-> *(Add your Power BI dashboard screenshot here)*
 
 ![India Trade Dashboard](dashboard.JPG)
 
@@ -73,15 +72,3 @@ The objective of this project is to answer important trade-related business ques
 - Trade values increased significantly over the years.
 
 ---
-
-## 📂 Project Structure
-
-```bash
-India-Trade-Analytics/
-│
-├── dataset/
-├── notebooks/
-├── sql_scripts/
-├── powerbi_dashboard/
-├── report/
-└── presentation/
